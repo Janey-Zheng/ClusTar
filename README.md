@@ -2,7 +2,7 @@
 
 A comprehensive toolkit for identifying, clustering, annotating, and visualizing protein-protein interaction (PPI) sites and residue clusters.
 
-<img width="800" height="800" alt="f31bfa3e2085cb119ea31ecb3d055a77" src="https://github.com/user-attachments/assets/6bba4598-17cf-43cf-920a-a6c28f4effee" />
+<img width="500" height="500" alt="f31bfa3e2085cb119ea31ecb3d055a77" src="https://github.com/user-attachments/assets/6bba4598-17cf-43cf-920a-a6c28f4effee" />
 
 
 ## Features
